@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="unt.cse.studentsurplus.controller.RegistrationController" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/controller/RegistrationController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="154" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="unt.cse.studentsurplus.dao.RegistrationDAO" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/dao/RegistrationDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="231" width="168" x="-11" y="330"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="unt.cse.studentsurplus.dao.RegistrationDAOImpl" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/dao/RegistrationDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="196" x="455" y="296"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="unt.cse.studentsurplus.service.RegistrationService" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/RegistrationService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="592" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="unt.cse.studentsurplus.service.RegistrationServiceImpl" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/RegistrationServiceImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="83" y="773"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="unt.cse.studentsurplus.controller.LoginController" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/controller/LoginController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="816" y="638"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="unt.cse.studentsurplus.service.LoginService" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/LoginService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="426" y="759"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="unt.cse.studentsurplus.service.LoginServiceImpl" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/LoginServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="663" y="836"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="unt.cse.studentsurplus.dao.LoginDAO" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/dao/LoginDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="969" y="897"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="unt.cse.studentsurplus.controller.ProductPostingController" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/controller/ProductPostingController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1189" y="110"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="unt.cse.studentsurplus.service.ProductPostingService" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/ProductPostingService.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1222" y="635"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="unt.cse.studentsurplus.service.ProductPostingServiceImpl" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/ProductPostingServiceImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1522" y="96"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="unt.cse.studentsurplus.dao.ProductPostingDAO" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/dao/ProductPostingDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1914" y="108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="unt.cse.studentsurplus.dao.ProductPostingDAOImpl" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/dao/ProductPostingDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1573" y="382"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="unt.cse.studentsurplus.service.MailSenderService" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/MailSenderService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1254" y="942"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="unt.cse.studentsurplus.service.MailSenderServiceImpl" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/service/MailSenderServiceImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1590" y="890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="unt.cse.studentsurplus.controller.ProductOrderController" 
+    project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/controller/ProductOrderController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1680" y="670"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="unt.cse.studentsurplus.model.Address" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/Address.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="1224"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="unt.cse.studentsurplus.model.Email" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/Email.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1974" y="677"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="unt.cse.studentsurplus.model.LoginCredential" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/LoginCredential.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="811" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="unt.cse.studentsurplus.model.Product" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/Product.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1057" y="1425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="unt.cse.studentsurplus.model.ProductImage" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/ProductImage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="584" y="1387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="unt.cse.studentsurplus.model.Search" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/Search.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="394" y="1657"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="unt.cse.studentsurplus.model.User" project="unt.cse.studentsurplus" 
+    file="/unt.cse.studentsurplus/src/main/java/unt/cse/studentsurplus/model/User.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16" y="1289"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="25">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="26">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="27" name="loginService"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="30" name="registrationService"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="33" name="registrationService"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="36" name="productPostingService">        
+        <position height="18" width="117" x="968" y="613"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="39" name="registrationService"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="42">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="43" name="registrationDAO"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="46" name="loginDao"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="49" name="mailSenderService"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="51">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="52">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="53">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="54">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="55" name="registrationService"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="58" name="productPostingService"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="60">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="61">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="62" name="ppDao"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="65" name="loginDao"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="68" name="logDao"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="71" name="productPostingService"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="74" name="productPostingDAO"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

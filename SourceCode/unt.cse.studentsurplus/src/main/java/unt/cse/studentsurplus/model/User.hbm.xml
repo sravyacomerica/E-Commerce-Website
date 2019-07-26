@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="User" table="user">
+		<id name="user_id" column="user_id" type="integer">
+			<generator class="assigned" />
+		</id>
+
+		<property name="first_name" column="first_name" type="string" />
+		<property name="middle_name" column="middle_name"
+			type="string" />
+		<property name="last_name" column="last_name" type="string" />
+		<property name="email" column="email" type="string" />
+		<property name="date_last_modified"
+			column="date_last_modified" type="string" />
+		<property name="date_created" column="date_created"
+			type="string" />
+		<property name="date_deleted" column="date_deleted"
+			type="string" />
+		<property name="phone_number" column="phone_number" type="int" />
+	</class>
+</hibernate-mapping>

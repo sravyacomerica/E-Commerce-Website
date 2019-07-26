@@ -1,0 +1,6 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/src/main/webapp/WEB-INF/view/test.jsp
+/src/main/webapp/WEB-INF/view/test-product.jsp
